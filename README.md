@@ -1,2 +1,2 @@
 # CSS-Selectors-Exercise 
-_30 most used CSS selectors with examples
+30 most used CSS selectors with examples
